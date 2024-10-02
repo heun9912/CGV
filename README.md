@@ -1,8 +1,35 @@
-# React + Vite
+# CGV따라 만들어보기
+---
+TMDB의 api를 이용하여 영화관의 웹 사이트인 CGV를 만들어 보았습니다.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## 제작 기간
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+~10월2일
+
+## 사용한 언어
+---
+
+react, js, css
+
+## 사용한 api
+---
+
+TMDB:https://www.themoviedb.org/?language=ko
+
+## 구현한 기능
+---
+
+api의 영화데이터를 이용하여서 최신 영화정보가 보이도록 구현
+
+## 추가할 기능
+---
+
+검색 기능
+
+## 수정 일정
+---
+
+미정(시간이 생기면 할 예정)
+
